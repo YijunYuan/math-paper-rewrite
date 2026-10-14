@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Structure Planning"
+  short_description: "Organize a paper around its mathematical contributions"
+  default_prompt: "Use $paper-structure-planning to improve the supplied mathematical manuscript within the requested scope."
