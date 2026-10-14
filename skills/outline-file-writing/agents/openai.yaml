@@ -1,0 +1,4 @@
+interface:
+  display_name: "Outline File Writing"
+  short_description: "Build a consistent outline with traceable dependencies"
+  default_prompt: "Use $outline-file-writing to improve the supplied mathematical manuscript within the requested scope."
