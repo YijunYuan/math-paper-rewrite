@@ -1,0 +1,4 @@
+interface:
+  display_name: "Statement Writing"
+  short_description: "Make mathematical statements precise and readable"
+  default_prompt: "Use $statement-writing to improve the supplied mathematical manuscript within the requested scope."
