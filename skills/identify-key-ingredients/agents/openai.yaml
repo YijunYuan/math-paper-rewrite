@@ -1,0 +1,4 @@
+interface:
+  display_name: "Identify Key Ingredients"
+  short_description: "Trace key ideas, methods, and citations to their roles"
+  default_prompt: "Use $identify-key-ingredients to improve the supplied mathematical manuscript within the requested scope."
