@@ -1,0 +1,61 @@
+{
+  "name": "math-paper-rewrite",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "upstream": {
+    "repository": "https://github.com/frenzymath/Pharos",
+    "commit": "aa0b72e4a7211311a3156ef7d993cd3be9f57445"
+  },
+  "skills": [
+    "paper-structure-planning",
+    "statement-writing",
+    "identify-key-steps",
+    "identify-key-ingredients",
+    "paper-style",
+    "paper-polish",
+    "outline-file-writing",
+    "math-paper-rewrite"
+  ],
+  "sources": [
+    {
+      "original": "agents/skills/main/paper/paper-structure-planning/SKILL.md",
+      "local": "skills/paper-structure-planning/references/upstream.md",
+      "sha256": "ea3befea1ca13d097c7e5aa190521a959b46e720f226d694ec5096b4a9bfeb7d"
+    },
+    {
+      "original": "agents/skills/main/paper/statement-writing/SKILL.md",
+      "local": "skills/statement-writing/references/upstream.md",
+      "sha256": "5e1ea7fbfdd64d47179e8d47b87407db7851f08d6375a791faa70e7edfd2a30f"
+    },
+    {
+      "original": "agents/skills/reporter/identify-key-steps/SKILL.md",
+      "local": "skills/identify-key-steps/references/upstream.md",
+      "sha256": "386ea32c03d08cc7c3b00f927e8f04188a5c369c0f651fa71715c60cacdf5432"
+    },
+    {
+      "original": "agents/skills/reporter/identify-key-ingredients/SKILL.md",
+      "local": "skills/identify-key-ingredients/references/upstream.md",
+      "sha256": "cc0155b24bb5bfadddd36b5b88bb07bb0192e79240ad7c7d646e3f0caa0c664b"
+    },
+    {
+      "original": "agents/skills/main/paper/paper-style/SKILL.md",
+      "local": "skills/paper-style/references/upstream.md",
+      "sha256": "0e4337f2b538775ab06ea014e9d4640f1c1739d6bccf68729a0953a4f19bf1ee"
+    },
+    {
+      "original": "agents/skills/main/paper/paper-polish/SKILL.md",
+      "local": "skills/paper-polish/references/upstream.md",
+      "sha256": "b3867af47ae95b60df04696f31f8f9f034277356b3717c9f9032b6834449bb02"
+    },
+    {
+      "original": "agents/skills/main/paper/outline-file-writing/SKILL.md",
+      "local": "skills/outline-file-writing/references/upstream.md",
+      "sha256": "8e60f291f2593fef5b069f859185dfa40a76a48e7581a77c6a214ae5ba0944ef"
+    },
+    {
+      "original": "agents/resources/default-style/STYLE.md",
+      "local": "skills/paper-style/references/upstream-style.md",
+      "sha256": "b40085d998d76e35bdad4aba76751d3731a35d936c78ebec67f8dd78dd6f8e89"
+    }
+  ]
+}
