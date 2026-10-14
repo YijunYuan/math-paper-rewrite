@@ -1,0 +1,4 @@
+interface:
+  display_name: "Math Paper Rewrite"
+  short_description: "Coordinate seven skills to rewrite mathematical papers"
+  default_prompt: "Use $math-paper-rewrite to improve the supplied mathematical manuscript within the requested scope."
