@@ -1,0 +1,4 @@
+interface:
+  display_name: "Identify Key Steps"
+  short_description: "Find the mathematical work behind the proof narrative"
+  default_prompt: "Use $identify-key-steps to improve the supplied mathematical manuscript within the requested scope."
